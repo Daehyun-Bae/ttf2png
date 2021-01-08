@@ -14,4 +14,4 @@ Extract Korean alphabet images from \*.ttf file
 
 ## Examples
 
-![results_ex](.\img\results_ex.PNG)
+![results_ex](img\results_ex.PNG)
